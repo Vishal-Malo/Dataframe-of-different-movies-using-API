@@ -1,0 +1,2 @@
+# Dataframe-of-different-movies-using-API
+Creating a dataframe in pandas by extracting data from API(JSON). The .csv file created is completely extracted from the url/urls : "https://api.themoviedb.org/3/movie/top_rated?api_key=8265bd1679663a7ea12ac168da84d2e8&amp;language=en-US&amp;page=1". The above mentioned url is for the first page, a total of 10 pages data is collected from the API. The columns taken are "ID", "Title", "Overview", "Release Date", "Popularity", "Vote Average" and "Vote Count".
